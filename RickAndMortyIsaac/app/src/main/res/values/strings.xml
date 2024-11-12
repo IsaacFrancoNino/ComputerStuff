@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RickAndMortyIsaac</string>
+    <string name="generic_error_message">Sorry, there was a problem. Try Again</string>
+</resources>
